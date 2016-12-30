@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Akismet
+ * @package WP-x
  */
 /*
 Plugin Name: WP-x
